@@ -1,0 +1,2 @@
+Time:1 secs Accuracy:0% Wpm: 95Time:5 secs Accuracy:6% Wpm: 61
+0.30600000000000005
